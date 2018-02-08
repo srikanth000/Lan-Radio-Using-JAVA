@@ -6,7 +6,7 @@
 //package Server;
 /**
  *
- * @author maheshp
+ * @author srikanth
  */
 import javax.swing.JFrame;
 import javax.swing.SwingUtilities;
